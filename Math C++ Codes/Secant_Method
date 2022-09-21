@@ -1,0 +1,6 @@
+iter 	 xl 	 xu 	 x 	 return 
+
+1	2.6	2.8	2.05552	2.07494e-317	
+2	2.8	2.05552	2.05369	0.0432704	
+3	2.05552	2.05369	2.0536	0.00193772	
+The exact root is: 2.0536  The number of iterations used was:  3  
